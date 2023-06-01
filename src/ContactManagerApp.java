@@ -1,9 +1,7 @@
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.Hashtable;
-import java.util.Scanner;
+import java.util.*;
 
 public class ContactManagerApp {
 
@@ -57,6 +55,12 @@ public class ContactManagerApp {
     }
 
     private static void displayContacts() {
+        List<String> groceryList = Arrays.asList("coffee", "milk", "sugar");
+        Path filepath = Paths.get("src", "contacts.txt");
+        Files.write(filepath, groceryList);
+
+
+
     }
 
     public static void addContact() {
