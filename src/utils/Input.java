@@ -1,4 +1,4 @@
-package docrob.cag.framework.utils;
+package utils;
 
 import java.util.Scanner;
 

@@ -3,7 +3,7 @@ import docrob.cag.framework.screens.Screen;
 import docrob.cag.framework.screens.ScreenManager;
 import docrob.cag.framework.screens.ScreenState;
 import docrob.cag.framework.state.Game;
-import docrob.cag.framework.utils.Input;
+import utils.Input;
 
 import java.util.ArrayList;
 

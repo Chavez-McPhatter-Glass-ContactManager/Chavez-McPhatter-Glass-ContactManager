@@ -1,6 +1,6 @@
 package docrob.cag.framework.state;
 
-import docrob.cag.framework.utils.Input;
+import utils.Input;
 
 import java.util.HashMap;
 
