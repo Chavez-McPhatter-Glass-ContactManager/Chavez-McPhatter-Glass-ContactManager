@@ -1,4 +1,4 @@
-package utils;
+package util;
 
 // shamelessly borrowed and modified from https://www.w3schools.blog/ansi-colors-java
 public class ConsoleColors {
